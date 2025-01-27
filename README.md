@@ -17,25 +17,25 @@ Here are some ideas to get you started:
 
 I'm an aspiring Data Scientist currently enhancing my skills through the TKH (The Knowledge House) fellowship. This repository showcases my learning journey, personal projects, and the techniques I’m exploring as I grow in the data science field.
 
-🛠 Skills
+## 🛠 Skills
 
-Programming Languages: Python
-Data Manipulation: Pandas
-Data Visualization: Matplotlib, Seaborn
-Statistical Analysis: Basic Statistics like Mean, Median, Mode, Variance and Standard Deviation
+- Programming Languages: Python
+- Data Manipulation: Pandas
+- Data Visualization: Matplotlib, Seaborn
+- Statistical Analysis: Basic Statistics like Mean, Median, Mode, Variance and Standard Deviation
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
-Statistical Analysis: Advanced Statistical Techniques like Hypothesis Testing and Probality Distributions 
-Data Manipulation: Pivot Tables
+- Data Manipulation: Pivot Tables in Pandas
+- Statistical Analysis: Advanced Statistical Techniques like Hypothesis Testing and Probality Distributions 
 
-📚 Will Learn
+## 📚 Will Learn
 
-Databases: SQL 
-Data Visualization: Tableau
+- Databases: SQL 
+- Data Visualization: Tableau
 
-📫 Contact 
+## 📫 Get in Touch 
 
-Email: [khadazhaia.grayson@outlook.com]
-LinkedIn: [https://www.linkedin.com/in/khadazhaiagrayson/]
+- Email: [khadazhaia.grayson@outlook.com]
+- LinkedIn: [https://www.linkedin.com/in/khadazhaiagrayson/]
 
