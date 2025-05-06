@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an aspiring Data Scientist currently enhancing my skills through the TKH (The Knowledge House) fellowship. This repository showcases my learning journey, personal projects, and the techniques I’m exploring as I grow in the data science field.
+I'm an aspiring Data Analyst currently enhancing my skills through the TKH (The Knowledge House) fellowship. This repository showcases my learning journey, personal projects, and the techniques I’m exploring as I grow in the data science field.
 
 ## 🛠 Skills
 
@@ -26,8 +26,8 @@ I'm an aspiring Data Scientist currently enhancing my skills through the TKH (Th
 
 ## 🌱 Currently Learning
 
-- Data Manipulation: Pivot Tables in Pandas
-- Statistical Analysis: Advanced Statistical Techniques like Hypothesis Testing and Probality Distributions 
+- Statistical Analysis: Advanced Statistical Techniques like Hypothesis Testing and Probality Distributions
+- Machine Learning: Linear and Logistic Regression 
 
 ## 📚 Will Learn
 
